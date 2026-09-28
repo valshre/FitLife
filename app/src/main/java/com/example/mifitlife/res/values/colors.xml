@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores oficiales FITLIFE -->
+    <color name="pink">#F6777E</color>          <!-- Rosa principal (Caminar) -->
+    <color name="pink_light">#FFF0F1</color>     <!-- Rosa claro -->
+    <color name="pink_dark">#D95760</color>      <!-- Rosa oscuro -->
+    <color name="red">#E94B55</color>            <!-- Rojo (Correr) -->
+    <color name="blue">#4A90E2</color>           <!-- Azul (Entrenamiento) -->
+    <color name="green">#54BFA3</color>          <!-- Verde (Bicicleta) -->
+    <color name="black">#111111</color>
+    <color name="gray">#707070</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="focus_overlay">#33F6777E</color>
+</resources>

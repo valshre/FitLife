@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mifitlife">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light">
+
+        <!-- Pantalla principal -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Activities de Smartwatch -->
+        <activity android:name=".smartwatch.WatchHomeActivity" />
+        <activity android:name=".smartwatch.WatchHeartActivity" />
+        <activity android:name=".smartwatch.WatchActivityActivity" />
+        <activity android:name=".smartwatch.WatchGoalActivity" />
+        <activity android:name=".smartwatch.WatchNotificationsActivity" />
+
+        <!-- Activities de Smart TV -->
+        <activity android:name=".tv.TvDashboardActivity" />
+        <activity android:name=".tv.TvActivitiesActivity" />
+        <activity android:name=".tv.TvGoalsActivity" />
+        <activity android:name=".tv.TvHistoryActivity" />
+        <activity android:name=".tv.TvStatisticsActivity" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitLife</string>
+
+    <!-- Selección de versión -->
+    <string name="select_title">FITLIFE</string>
+    <string name="select_subtitle">Selecciona la versión</string>
+    <string name="select_watch">Smartwatch</string>
+    <string name="select_tv">Smart TV</string>
+    <string name="select_ok">Aceptar</string>
+    <string name="select_cancel">Cancelar</string>
+
+
+
+
+
+    <!-- Datos simulados compartidos -->
+    <string name="user_name">Ana López</string>
+
+
+    <!-- Actividades -->
+    <string name="act_walk">Caminar</string>
+    <string name="act_run">Correr</string>
+    <string name="act_bike">Bicicleta</string>
+    <string name="act_train">Entrenamiento</string>
+
+    <string name="desc_walk">Caminar: mantén un ritmo constante y balancea los brazos. Ideal para calentar o para actividad ligera diaria. Pulsa Aceptar para iniciar el registro de pasos.</string>
+    <string name="desc_run">Correr: aumenta la intensidad respetando tu respiración. El sensor registrará ritmo cardiaco y calorías. Pulsa Aceptar para comenzar la sesión.</string>
+    <string name="desc_bike">Bicicleta: ajusta la resistencia y mantén una cadencia estable. Se medirá el tiempo y las calorías del recorrido. Pulsa Aceptar para iniciar.</string>
+    <string name="desc_train">Entrenamiento: combina series de fuerza y descanso. Sigue las repeticiones indicadas y controla tu frecuencia cardiaca. Pulsa Aceptar para comenzar.</string>
+
+    <!-- Smart TV: navegación entre secciones -->
+    <string name="tv_nav_dashboard">Dashboard</string>
+    <string name="tv_nav_stats">Estadísticas</string>
+    <string name="tv_nav_activities">Actividades</string>
+    <string name="tv_nav_history">Historial</string>
+    <string name="tv_nav_goals">Objetivos</string>
+    <string name="tv_nav_settings">Configuración</string>
+    <string name="tv_nav_help">Ayuda</string>
+    <string name="tv_nav_about">Acerca de</string>
+    <string name="tv_nav_exit">Salir</string>
+    <string name="tv_nav_ok">Aceptar</string>
+
+
+
+    <!-- Smart TV: dashboard -->
+    <string name="tv_daily_summary">Resumen diario</string>
+    <string name="tv_recent_activity">Actividad reciente</string>
+    <string name="tv_steps">Pasos</string>
+    <string name="tv_calories">Calorías</string>
+    <string name="tv_heart_rate">Frecuencia cardiaca</string>
+    <string name="tv_duration">Duración</string>
+    <string name="tv_goal_title">Meta diaria</string>
+    <string name="tv_goal_steps">Pasos</string>
+    <string name="tv_goal_percent">Completado</string>
+
+<string name="tv_goal_desc">Objetivo diario: 8000 pasos</string>
+
+
+
+
+    <string name="activity_title">Actividad</string>
+    <string name="goal_title">Objetivo diario</string>
+    <string name="notif_title">Notificaciones</string>
+
+</resources>

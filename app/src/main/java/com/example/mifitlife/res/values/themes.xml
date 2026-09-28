@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FitLife" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/pink_dark</item>
+        <item name="android:windowBackground">@color/gray_light</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- Tema para la versión Smart TV: fondo oscuro amplio -->
+    <style name="Theme.FitLife.TV" parent="Theme.FitLife">
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
